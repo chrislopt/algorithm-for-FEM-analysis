@@ -1,0 +1,2 @@
+# algorithm for FEM analysis
+ The finite element method (FEM) is a widely used method for numerically solving differential equations arising in engineering and mathematical modeling. Typical problem areas of interest include the traditional fields of structural analysis, heat transfer, fluid flow, mass transport, and electromagnetic potential. The FEM is a general numerical method for solving partial differential equations in two or three space variables (i.e., some boundary value problems). From: https://en.wikipedia.org/wiki/Finite_element_method
